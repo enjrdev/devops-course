@@ -1,0 +1,6 @@
+This is a 6th file present on the /devops directory
+But not in the clone directory
+We will add it to the clone directory now
+
+We the clone directory receives it, it will confirm with hello and add 3 lines of text underneath this :)
+
