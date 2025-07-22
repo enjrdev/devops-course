@@ -4,3 +4,6 @@ We will add it to the clone directory now
 
 We the clone directory receives it, it will confirm with hello and add 3 lines of text underneath this :)
 
+Yes, well received
+Added 1 ,2 and 
+3 line as promised :))
